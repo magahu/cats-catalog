@@ -1,0 +1,17 @@
+:host{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid red;
+    border-radius: 10px;
+}
+
+.cat-image{
+    width: 100%;
+    height: auto;
+}
+
+.cat-description{
+    padding: 2em;
+}

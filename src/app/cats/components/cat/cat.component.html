@@ -1,0 +1,7 @@
+<h3>{{breed.name}}</h3>
+<img *ngIf="breed.image != undefined && breed.image.url != undefined; else elseBlock" [src]="breed.image.url" class="cat-image">
+<ng-template #elseBlock>
+    <img class="cat-image" src="./../../../../assets/imagenes/not_found.jpeg">
+</ng-template>
+<p class="cat-description">{{breed.description}}</p>
+<button mat-raised-button color="warn" (click)="sendBreedId(breed.name)">See cat</button>
