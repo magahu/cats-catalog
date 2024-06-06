@@ -1,7 +1,7 @@
 # Cats catalog
 
 Consuming cats API https://thecatapi.com/
-This web app allows to see cats an info about their races.
+This web app allows to see cats races and info about them. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
