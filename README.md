@@ -10,9 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Some views of this app
 
-![Chat-form page](https://github.com/magahu/cats-catalog/blob/main/README_SCREENSHOTS/1.png)
 
-![Chat-form page](https://github.com/magahu/cats-catalog/blob/main/README_SCREENSHOTS/2.png)
+
 
